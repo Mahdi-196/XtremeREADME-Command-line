@@ -30,15 +30,15 @@ Clone the repository, make changes in a separate branch, and submit a pull reque
 
 ## Tests
 ```
-Currently, there are no automated tests for this project. However, you can manually test the README generation by running node index.js and verifying the generated file.
+You can manually test the README generation by running node index.js and verifying the generated file.
 ```
 
 ## Questions
 For any questions, please contact me:
 
-- GitHub: [Mahdi070707](https://github.com/Mahdi070707)
+- GitHub: [Mahdi070707](https://github.com/Mahdi-196)
 - Email: [mahdighaleb196@gmail.com](mailto:mahdighaleb196@gmail.com)
 
-  ##Video
+  ##DEMO
 
-https://drive.google.com/file/d/1nO-fWDaExcHq_aYGJBbILnguYKfXNmaX/view?usp=sharing
+  https://drive.google.com/file/d/1nO-fWDaExcHq_aYGJBbILnguYKfXNmaX/view?usp=sharing
